@@ -3,9 +3,6 @@
 
 ---
 
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
 <h1 id="cuda-10.2-tensorrt-8.0-easy-installation-guide">CUDA 10.2 TENSORRT 8.0 EASY INSTALLATION GUIDE</h1>
 <p>If you ever find installing CUDA, CUDNN and TensorRT to be a pain in the @SS, here is the guide for you. Dummy-proof method to install TensorRT and CUDA/CUDNN. I’m going to assume that you have already installed nvidia drivers ( since it’s the easy part).</p>
 <ul>
